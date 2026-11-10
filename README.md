@@ -38,7 +38,7 @@ sums and the symmetric derivative δG^ab/δG^cd = ½(δ^a_c δ^b_d + δ^a_d δ^b
 | `fermions.py` | fermionic relation (11) with ζ = −1; SBE decomposition (63) for all index combinations; its ζ-signed general form (77); Schwinger–Dyson equations (67) and (68) | 53 |
 | `fermions_three_flavours.py` | the same with three flavours and a generic interaction (36 nonzero vertex components; all channel terms of (63) individually nonzero) | 208 (+53 truncation check) |
 | `sbe_residual.py` | cancellation conditions after Eq. (86); leading orders of the residual vertex (−2u, no u² term); Eq. (87) to all orders for u = 0.01 … 3 (G^{i′j′k′}_ψ from the theory with sources fixed by (φ̄, ψ)) | 18 |
-| `appendixC.py` | bilinear plus trilinear composites: the cancellation identity, Eq. (1), and the structure (C4)–(C5), i.e. that apart from S₀[φ̄] the composite action depends on φ̄ only through terms linear in ψ•; in particular the residual four-fermion vertex at fixed ψ• vanishes. Run with argument 4 or 5 (total degree of the truncation; 5 includes all vertices with up to five legs) | 9 |
+| `appendixC.py` | bilinear plus trilinear composites: the identity, Eq. (1), and the structure (C4)–(C5), i.e. that apart from S₀[φ̄] the composite action depends on φ̄ only through terms linear in ψ•; in particular the residual four-fermion vertex at fixed ψ• vanishes. Run with argument 4 or 5 (total degree of the truncation; 5 includes all vertices with up to five legs) | 9 |
 
 ## Remarks specific to zero dimensions
 
