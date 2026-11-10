@@ -63,3 +63,7 @@ bosonic theories. `superalg.py` (bosonic-degree truncation) and `superalg2.py` (
 power series in bosonic variables with Grassmann generators; `fermions.py` builds the fermionic generating
 functional by exact Berezin integration and performs the super-Legendre transform with the left-derivative
 conventions of the manuscript.
+
+## Provenance
+
+The code was written with the assistance of Claude (Anthropic, Opus 5.5), November 2026. The authors reviewed, ran and validated the code and take full responsibility for it.
