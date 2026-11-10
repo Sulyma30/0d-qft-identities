@@ -10,7 +10,7 @@ Every check in the package passes; the outputs are in `logs/`.
 
 ## Requirements and usage
 
-Python 3 with `mpmath`, `numpy`. Run `bash run_all.sh` (about 25 minutes in total, half of it for `appendixC.py 5`) or any script individually,
+Python 3 with `mpmath`, `numpy`. Run `bash run_all.sh` (about 3 minutes in total) or any script individually,
 e.g. `python3 single_field.py`. Each script prints one line per check (`OK`/`FAIL`, both sides and the
 deviation) and a final summary.
 
